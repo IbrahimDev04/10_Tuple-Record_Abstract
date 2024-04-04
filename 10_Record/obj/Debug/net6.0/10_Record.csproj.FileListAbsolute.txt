@@ -1,0 +1,15 @@
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\bin\Debug\net6.0\10_Record.exe
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\bin\Debug\net6.0\10_Record.deps.json
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\bin\Debug\net6.0\10_Record.runtimeconfig.json
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\bin\Debug\net6.0\10_Record.dll
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\bin\Debug\net6.0\10_Record.pdb
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\obj\Debug\net6.0\10_Record.csproj.AssemblyReference.cache
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\obj\Debug\net6.0\10_Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\obj\Debug\net6.0\10_Record.AssemblyInfoInputs.cache
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\obj\Debug\net6.0\10_Record.AssemblyInfo.cs
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\obj\Debug\net6.0\10_Record.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\obj\Debug\net6.0\10_Record.dll
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\obj\Debug\net6.0\refint\10_Record.dll
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\obj\Debug\net6.0\10_Record.pdb
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\obj\Debug\net6.0\10_Record.genruntimeconfig.cache
+C:\Users\ca.r214.15\Desktop\10_Tuple-Record_Abstract\10_Record\obj\Debug\net6.0\ref\10_Record.dll
