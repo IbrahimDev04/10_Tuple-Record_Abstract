@@ -1,16 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _10_Abstract.Models
+﻿namespace _10_Abstract.Models
 {
-    abstract class MobileShop
+    internal abstract class MobileShop : Electronic
     {
-        public override void GoodsType()
-        {
-            Console.WriteLine("Here is Mobile phone");
-        }
+        public abstract void TelMark();
+
+        
     }
 }

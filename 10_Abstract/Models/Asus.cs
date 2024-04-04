@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace _10_Abstract.Models
 {
-    internal abstract class Electronic : Shops
+    internal abstract class Asus : ComputerShop
     {
-
-        public abstract void GoodsType();
-
-        
+        public abstract void AsusVersion();
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\bin\Debug\net6.0\10_Abstract.exe
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\bin\Debug\net6.0\10_Abstract.deps.json
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\bin\Debug\net6.0\10_Abstract.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\bin\Debug\net6.0\10_Abstract.dll
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\bin\Debug\net6.0\10_Abstract.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\obj\Debug\net6.0\10_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\obj\Debug\net6.0\10_Abstract.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\obj\Debug\net6.0\10_Abstract.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\obj\Debug\net6.0\10_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\obj\Debug\net6.0\10_Abstract.sourcelink.json
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\obj\Debug\net6.0\10_Abstract.dll
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\obj\Debug\net6.0\refint\10_Abstract.dll
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\obj\Debug\net6.0\10_Abstract.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\obj\Debug\net6.0\10_Abstract.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Masaüstü\10_Tuple-Record_Abstract\10_Abstract\obj\Debug\net6.0\ref\10_Abstract.dll
